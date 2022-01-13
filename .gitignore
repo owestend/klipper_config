@@ -1,1 +1,3 @@
-printer.cfg
+# ignoring all changes in printer.cfg because is just a sym link to printer-specific cfg.
+printer.*
+printer-20*.cfg
